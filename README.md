@@ -39,6 +39,7 @@ In case of C8, ( eg. C2 (1) or C3(1)) , output any one , both are valid
               
               
 INPUT:
+
 C1:C2,C3,C5
 
 C2:C1,C4,C3
@@ -56,6 +57,7 @@ C7:C6,C8
 C8:C7,C4
 
 OUTPUT:
+
 [C4:2], =>C1
 
 [C8:1],[C5:1], =>C2
