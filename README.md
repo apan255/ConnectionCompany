@@ -24,8 +24,6 @@ In case of C8, ( eg. C2 (1) or C3(1)) , output any one , both are valid
 [C6:2],[C2:1], =>C8
 [C6:2],[C3:1], =>C8
 
-
-
     ----------[C1]-----------------[C5]
     |            |
     |            |
